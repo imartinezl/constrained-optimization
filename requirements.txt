@@ -1,0 +1,6 @@
+jupyter
+jupyterlab
+numpy
+matplotlib
+tqdm
+jax[cpu]
